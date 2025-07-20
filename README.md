@@ -1,6 +1,6 @@
 # VoiceSpoof-VN: Vietnamese Spoofed and Bonafide Speech Dataset
 
-VoiceSpoof-VN is a publicly available dataset for research on speaker verification and spoofing countermeasures in Vietnamese. It contains over **105,000 utterances** from **262 speakers** across diverse acoustic and spoofing conditions. The dataset is designed to support research on **spoof detection**, **speaker verification**, and **language-specific vulnerabilities** in Vietnamese speech processing.
+VoiceSpoof-VN is a publicly available dataset for research on speaker verification and spoofing countermeasures in Vietnamese. It contains over **71,000 utterances** from **262 speakers** across diverse acoustic and spoofing conditions. The dataset is designed to support research on **spoof detection**, **speaker verification**, and **language-specific vulnerabilities** in Vietnamese speech processing.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/coronatusvi/ASVspoof2025_VN/refs/heads/master/access/F1.png" width="700"/>
