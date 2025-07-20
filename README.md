@@ -53,7 +53,7 @@ This dataset is provided **for academic and non-commercial research only**. Plea
 ---
 
 ## 📣 Citation
-
+```bibtex
 @misc{voicespoofvn2025,
   title        = {VoiceSpoof-VN: A Vietnamese Dataset for Spoofing and Speaker Verification Research},
   author       = {Anh H. Pham, Quang D. Vi, An Dang},
